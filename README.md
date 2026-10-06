@@ -2,7 +2,7 @@
 
 A simple expense tracker that helps you record spending, see your total, and understand where your money goes. It comes in two versions: a web app and a command-line program.
 
-**Live demo:** https://rajnikant9835.github.io/expense_tracker/
+**Live demo:** https://expensetracker-nine-mocha.vercel.app/
 
 ## Features
 
